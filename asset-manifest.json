@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bagas-react/static/css/main.c55bdca2.css",
+    "main.js": "/bagas-react/static/js/main.59dc4ef5.js",
+    "static/js/787.8bb99d8b.chunk.js": "/bagas-react/static/js/787.8bb99d8b.chunk.js",
+    "static/media/HeroImage.jpg": "/bagas-react/static/media/HeroImage.c579a1b4b89f1308f98a.jpg",
+    "index.html": "/bagas-react/index.html",
+    "main.c55bdca2.css.map": "/bagas-react/static/css/main.c55bdca2.css.map",
+    "main.59dc4ef5.js.map": "/bagas-react/static/js/main.59dc4ef5.js.map",
+    "787.8bb99d8b.chunk.js.map": "/bagas-react/static/js/787.8bb99d8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c55bdca2.css",
+    "static/js/main.59dc4ef5.js"
+  ]
+}
